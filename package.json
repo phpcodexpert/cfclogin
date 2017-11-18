@@ -1,0 +1,30 @@
+{
+  "name": "chatfunnelscom",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "lodash": "^4.17.4",
+    "material-ui": "^0.19.4",
+    "material-ui-icons": "^1.0.0-beta.17",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
+    "react-flexbox-grid": "^2.0.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.8",
+    "react-scripts": "1.0.17",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "slate": "^0.30.6",
+    "slate-plain-serializer": "^0.4.6",
+    "slate-react": "^0.10.11",
+    "styled-components": "^2.2.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

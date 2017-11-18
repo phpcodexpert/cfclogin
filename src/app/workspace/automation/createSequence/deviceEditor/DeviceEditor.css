@@ -1,0 +1,27 @@
+.device-editor-container {
+  padding: 1rem;
+}
+
+.device-editor-wrapper {
+  background-color: white;
+  border: 1px solid #ececec;
+  border-radius: .5rem;
+  min-height: 80vh;
+  box-shadow: 0px 0px 2rem #ececec;
+}
+
+.device-editor-heading {
+  background-color: #ececec;
+  border-top-left-radius: .4rem;
+  border-top-right-radius: .4rem;
+  padding: 1rem;
+}
+
+.device-editor-heading > h4 {
+  margin: 0;
+}
+
+.device-editor-editor {
+  padding: 1rem;
+  overflow-y: auto;
+}
